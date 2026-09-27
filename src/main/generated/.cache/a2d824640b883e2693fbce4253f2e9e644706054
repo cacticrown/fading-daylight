@@ -1,0 +1,5 @@
+// 1.21.1	2026-09-27T08:23:36.531932838	Fading Daylight/Recipes
+7c8944f8a6b0788ffb22e95fd3a1fc31a426918c data/fading-daylight/advancement/recipes/food/fried_egg_from_smelting.json
+90bf9985eccad5bd6429c60ffe667bd39e01ffa2 data/fading-daylight/recipe/fried_egg_from_smelting.json
+3ccefb9e1cfacd302c0aff2f4470d06ddf3ae50b data/fading-daylight/recipe/fried_egg_from_smoking.json
+79adda283f6f5cb98b99f144d43a29d566c8bc85 data/fading-daylight/advancement/recipes/food/fried_egg_from_smoking.json

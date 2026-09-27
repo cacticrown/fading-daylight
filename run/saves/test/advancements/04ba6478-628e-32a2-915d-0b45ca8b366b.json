@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-09-27 08:25:29 +0200"
+    },
+    "done": true
+  },
+  "fading-daylight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2026-09-27 08:24:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-27 08:24:03 +0200"
+    },
+    "done": true
+  },
+  "fading-daylight:recipes/food/fried_egg_from_smelting": {
+    "criteria": {
+      "has_egg": "2026-09-27 08:25:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-09-27 08:24:04 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-09-27 08:24:53 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

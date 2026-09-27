@@ -1,0 +1,13 @@
+/damage @a 1
+/damage Player5 1
+/damage Player5 9
+/damage Player5 2
+/say hi
+/give @a spear
+/damage Player315 12
+/effect give Player315 minecraft:hunger 20 20
+/effect give Player315 minecraft:hunger 20 200
+/reload
+/damage Player93 20
+/damage Player93 19
+/effect give Player93 minecraft:hunger 2 255
