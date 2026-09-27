@@ -1,9 +1,5 @@
 # Fading Daylight
 
-## Setup
+## Credits & Asset Attribution:
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Some textures used in this mod are derived or modified from Better Than Wolves by FlowerChild, licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
