@@ -14,3 +14,4 @@
 /recipe give @s fading-daylight:fried_egg_from_smelting
 /recipe take Player335 fading-daylight:fried_egg_from_smelting
 /recipe give @s fading-daylight:fried_egg_from_smelting
+/tick sprint 10

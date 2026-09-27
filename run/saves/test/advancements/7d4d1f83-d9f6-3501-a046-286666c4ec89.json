@@ -1,0 +1,87 @@
+{
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-09-27 09:09:13 +0200"
+    },
+    "done": true
+  },
+  "fading-daylight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_egg": "2026-09-27 09:09:13 +0200"
+    },
+    "done": true
+  },
+  "fading-daylight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_egg": "2026-09-27 09:09:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-09-27 09:09:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-09-27 09:08:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-09-27 09:09:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-27 09:08:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-09-27 09:09:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-09-27 09:09:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-09-27 09:08:56 +0200"
+    },
+    "done": true
+  },
+  "fading-daylight:recipes/food/fried_egg_from_smelting": {
+    "criteria": {
+      "has_egg": "2026-09-27 09:09:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-09-27 09:08:57 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-09-27 09:09:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2026-09-27 09:08:56 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

@@ -23,7 +23,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
             RecipeCategory.FOOD,
             ModItems.FRIED_EGG,
             0.35f,
-            200
+            100
         )
         .unlockedBy("has_egg", has(Items.EGG))
         .save(exporter, FadingDaylight.id("fried_egg_from_smelting"));
@@ -33,9 +33,19 @@ public class ModRecipeProvider extends FabricRecipeProvider {
             RecipeCategory.FOOD,
             ModItems.FRIED_EGG,
             0.35f,
-            100
+            50
         )
         .unlockedBy("has_egg", has(Items.EGG))
         .save(exporter, FadingDaylight.id("fried_egg_from_smoking"));
+
+        SimpleCookingRecipeBuilder.campfireCooking(
+            Ingredient.of(Items.EGG),
+            RecipeCategory.FOOD,
+            ModItems.FRIED_EGG,
+            0.35f,
+            300
+        )
+        .unlockedBy("has_egg", has(Items.EGG))
+        .save(exporter, FadingDaylight.id("fried_egg_from_campfire_cooking"));
     }
 }
