@@ -15,9 +15,6 @@ public class FadingDaylight implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 
-		ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.FOOD_AND_DRINKS)
-				.register((itemGroup) -> itemGroup.accept(ModItems.FRIED_EGG));
-
 		LOGGER.info("Hello Fabric world!");
 	}
 

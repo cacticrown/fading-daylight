@@ -1,7 +1,11 @@
-// 1.21.1	2026-09-27T09:08:39.914437815	Fading Daylight/Recipes
+// 1.21.1	2026-09-27T15:24:04.197846989	Fading Daylight/Recipes
 7c8944f8a6b0788ffb22e95fd3a1fc31a426918c data/fading-daylight/advancement/recipes/food/fried_egg_from_smelting.json
 2fe1bb8bddfc2676a36cae47c94cb4dc99193655 data/fading-daylight/recipe/fried_egg_from_campfire_cooking.json
 3e4275006430a086acf4ffccbd38f10ee2911178 data/fading-daylight/recipe/fried_egg_from_smelting.json
+6f0a27a1992145bb2cd7e588aba15d16fc01a6d3 data/fading-daylight/recipe/wooden_club.json
 2fbed754b34e6301e6f2cf0cadcd02ef1a8c4d34 data/fading-daylight/recipe/fried_egg_from_smoking.json
+72dd3f85248c438280b18f53f7f4c7d902bc7163 data/fading-daylight/advancement/recipes/combat/wooden_club.json
+d4d3d3c78743eb15f61859c28a3fd2a9035bc851 data/fading-daylight/advancement/recipes/combat/bone_club.json
+7577c7ee33800af5fb5d731fbee3fa5352c597af data/fading-daylight/recipe/bone_club.json
 79adda283f6f5cb98b99f144d43a29d566c8bc85 data/fading-daylight/advancement/recipes/food/fried_egg_from_smoking.json
 8adb6b0899ce1ea162082dcda4fb34da7a25ca37 data/fading-daylight/advancement/recipes/food/fried_egg_from_campfire_cooking.json
