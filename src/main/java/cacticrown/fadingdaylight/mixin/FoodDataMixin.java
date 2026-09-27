@@ -10,6 +10,6 @@ public class FoodDataMixin {
 
 	@ModifyVariable(method = "addExhaustion", at = @At("HEAD"), argsOnly = true)
 	private float doubleExhaustion(float exhaustion) {
-		return exhaustion * 2;
+		return exhaustion * 4;
 	}
 }
