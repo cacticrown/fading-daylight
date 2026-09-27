@@ -18,8 +18,8 @@ public class ModItems {
     public static final Item FRIED_EGG = register(
             new Item(new Item.Properties().food(
                     new FoodProperties.Builder()
-                            .nutrition(4)
-                            .saturationModifier(0.6f)
+                            .nutrition(3)
+                            .saturationModifier(3.6f)
                             .build()
             )),
             "fried_egg"

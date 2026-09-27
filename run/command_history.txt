@@ -11,3 +11,6 @@
 /damage Player93 20
 /damage Player93 19
 /effect give Player93 minecraft:hunger 2 255
+/recipe give @s fading-daylight:fried_egg_from_smelting
+/recipe take Player335 fading-daylight:fried_egg_from_smelting
+/recipe give @s fading-daylight:fried_egg_from_smelting
