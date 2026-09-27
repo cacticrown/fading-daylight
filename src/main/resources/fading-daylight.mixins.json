@@ -3,7 +3,10 @@
 	"package": "cacticrown.fadingdaylight.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"FoodDataMixin"
+		"FoodDataMixin",
+		"PlayerMixin",
+		"AxeItemAccessor",
+		"TiersMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

@@ -12,7 +12,7 @@ public class BoneTier implements Tier {
 
     @Override
     public int getUses() {
-        return 131;
+        return 63;
     }
 
     @Override
